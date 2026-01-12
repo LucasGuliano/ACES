@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: aces-reader
+Version: 0.0.1
+Summary: A helper for ACES
+Home-page: https://github.com/Smithsonian/ACES
+Author: ACES
+Author-email: author@example.com
+Project-URL: Bug Tracker, https://github.com/Smithsonian/ACES/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# ACES Reader
+
+This package has utilities to parse the log files from `mimic`, the Stabilization logs, etc.
+
+There are plotting scripts under `scripts`, too.

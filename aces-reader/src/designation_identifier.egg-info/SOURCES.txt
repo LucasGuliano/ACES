@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.cfg
+src/aces_reader/__init__.py
+src/aces_reader/mimic_log_parser.py
+src/designation_identifier.egg-info/PKG-INFO
+src/designation_identifier.egg-info/SOURCES.txt
+src/designation_identifier.egg-info/dependency_links.txt
+src/designation_identifier.egg-info/top_level.txt
